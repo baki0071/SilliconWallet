@@ -17,4 +17,6 @@ leur mouvement financier
 **cette phase est un sprint vu que nous travaillons en méthode agile et nos sprints ferons 10jrs**
 - Cette phase commence du 1 au 10 Sept
 
-## Cours à rebours : <img src="http://s.mmgo.io/t/DILJ" alt="motionmailapp.com" />
+## Cours à rebours :
+
+ <img src="http://s.mmgo.io/t/DILJ" alt="motionmailapp.com" />
