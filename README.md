@@ -18,3 +18,13 @@ leur mouvement financier
 - Cette phase commence du 1 au 10 Sept
 
 ## FINALISATION DE LA PREMIERE PHASE : 3/09/2026
+
+## DEBUT DE LA PHASE 2 : 11/09/2026
+
+### Cas à étudier lors de cette phase
+
+1. UML
+2. Modélisation
+3. BDD ( modèle de la base de donnée que nous aurons )
+
+- Cette phase se terminera le 21 sept
