@@ -28,3 +28,20 @@ leur mouvement financier
 3. BDD ( modèle de la base de donnée que nous aurons )
 
 - Cette phase se terminera le 21 sept
+## FINALISATION DE LA PREMIERE PHASE : 22/09/2026
+
+
+## DEBUT DE LA PHASE 3 : 22/09/2026
+
+### Cas à étudier lors de cette phase
+
+1. Prototype du frontend
+
+## FINALISATION DE LA PREMIERE PHASE : 02/10/2026
+
+
+## DEBUT DE LA PHASE 4 : 3/10/2026
+
+### Cas à étudier lors de cette phase
+
+1. Prototype et mis en place de la BDD (1ère version)
